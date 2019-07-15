@@ -22,7 +22,7 @@ def countSetBitsUtil(x):
   
 # Driver program 
 if __name__=='__main__':  
-    n = 255
+    n = 7
     print("Total set bit count is", countSetBits(n)) 
        
 # This code is contributed by 
