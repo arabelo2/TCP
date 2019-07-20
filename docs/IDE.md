@@ -1,10 +1,11 @@
 # JAVA
 
 ## Java SE Downloads
+https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+
 - JDK
 - Server JRE
 - JRE
-https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
 
 ## Java SE Documentation
 https://www.oracle.com/technetwork/pt/java/javase/documentation/index.html
